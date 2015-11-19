@@ -14,11 +14,14 @@
     "target_path": "vendor/lge",
     "revision": "cm-13.0"
   },
-  {
-    "remote":"cm",
-    "repository": "android_external_mm-dash",
-    "target_path": "external/mm-dash",
+  { "remote": "cm",
+    "repository": "android_hardware_sony_thermanager",
+    "target_path": "hardware/sony/thermanager",
+    "revision": "cm-13.0"
+  },
+  { "remote": "cm",
+    "repository": "android_hardware_sony_timekeep",
+    "target_path": "hardware/sony/timekeep",
     "revision": "cm-13.0"
   }
-
 ]
